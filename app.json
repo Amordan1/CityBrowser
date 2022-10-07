@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CityNavigation",
-    "slug": "citynavigation-rm634127",
+    "name": "CityBrowser",
+    "slug": "citybrowser-rm634127",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ede2e0"
+      "backgroundColor": "#fff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
