@@ -5,6 +5,7 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import Button from './Button';
 import * as WebBrowser from 'expo-web-browser';
 
+//#region AppConstants
 const art = require('./assets/art.png');
 const mile = require('./assets/mile.png');
 const pier = require('./assets/pier.png');
@@ -16,6 +17,7 @@ const mileURL = "https://www.themagnificentmile.com/";
 const pierURL = "https://navypier.org/";
 const waterURL = "https://www.chicago.gov/city/en/depts/dca/supp_info/city_gallery_in_thehistoricwatertower.html";
 const willisURL = "https://www.willistower.com/";
+//#endregion
 
 
 function HomeScreen() {
